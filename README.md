@@ -1,7 +1,7 @@
 # Game-Dev
 Collection of game genre prototypes created with Unity in C#.
 
-Each folder includes the game's C# scripts and a zip folder of the entire Unity project. Demo videos for each prototype can be found here https://drive.google.com/drive/folders/1oNkmw2WcpQYlKhudpZIFiLQZ-noKqHKo?usp=sharing
+Each folder includes the game's C# scripts link to a zip folder of the entire Unity project. Demo videos for each prototype can be found here https://drive.google.com/drive/folders/1oNkmw2WcpQYlKhudpZIFiLQZ-noKqHKo?usp=sharing
 
 Bezos Bundle:
 The Bezos bundle was created with the idea that creativity thrives under constraints. While creating a prototype for 5 different game types I centered them all around the idea that Jeff Bezos, founder of Amazon, was a super villian in need of overcoming. All games in this repo are in a prototype stage with a demonstratable main gameplay loop.
